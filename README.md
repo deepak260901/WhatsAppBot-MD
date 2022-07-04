@@ -131,7 +131,7 @@ Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD/fork) <br>
 Now copy this url and change GITHUBID with your github username and click GO <br>.
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-MD 
+  https://heroku.com/deploy?template=https://github.com/deepak260901/WhatsAppBot-MD 
   ```
   
   <br> <br>
